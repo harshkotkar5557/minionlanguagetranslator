@@ -49,6 +49,7 @@
     width: 100%;
 }
 .input_section button{
+    cursor: pointer;
     width: max-content;
     padding: 0.5rem 1rem;
 }
